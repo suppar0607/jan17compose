@@ -1,10 +1,10 @@
 <html>
     <head>
-        <title>My Shop</title>
+        <title>Test service</title>
     </head>
 
     <body>
-        <h1>Welcome to my shop</h1>
+        <h1>Welcome!</h1>
         <ul>
             <?php
 
